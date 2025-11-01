@@ -21,7 +21,7 @@ Recomendaciones tener mas de 32GB RAM o una tarjeta GPU de 32GB VRAM
 Algunos datos de ejecucion de prueba 😎
 Resultados:
 🧾Muestra Recibo de 120 palabras 1101 caracteres
-⚡consumo electrico 65W 
+⚡consumo electrico GPU 65W 
 ⌚Tiempo total 58.06 seg 
 
 ## Uso
