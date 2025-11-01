@@ -15,8 +15,8 @@ Script simple ocr.py para leer recibos con DeepSeek-OCR local en windows Usando 
    Si devuelve True, podrás correr el modelo con GPU sin cambios.
 8. Copia ocr.py a la carpeta, cambia image_file a tu recibo, y corre `python ocr.py`.
 
-Nota: En ejecucucion gasta unas 24.7 GB Ram junto con la GPU RTX3050 6GB VRAM al 100%, al finalizar retorna valores normales. 
-Recomendaciones tener mas de 32GB ram o una tarjeta GPU de 32GB VRAM
+Nota: En ejecucucion gasta unas 24.7 GB RAM junto con la GPU RTX3050 6GB VRAM al 100%, al finalizar retorna valores normales. 
+Recomendaciones tener mas de 32GB RAM o una tarjeta GPU de 32GB VRAM
 
 Algunos datos de ejecucion de prueba 😎
 Resultados:
