@@ -1,5 +1,5 @@
 
-# DeepSeek-OCR en Mac M2: OCR para Recibos
+# DeepSeek-OCR en Windows con CUDA: OCR para Recibos
 
 Script simple ocr.py para leer recibos con DeepSeek-OCR local en windows Usando CUDA. Basado en tutorial YouTube de Tech With Mary.
 
