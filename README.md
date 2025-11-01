@@ -4,7 +4,7 @@
 Script simple ocr.py para leer recibos con DeepSeek-OCR local en windows Usando CUDA. Basado en tutorial YouTube de Tech With Mary.
 
 ## Instalación Rápida
-1. Instala Miniconda Windows : https://docs.conda.io/en/latest/miniconda.html (elige PowerShell).
+1. Instala Miniconda Windows : https://www.anaconda.com/docs/getting-started/miniconda/install#windows-powershell (elige PowerShell).
 2. Clona DeepSeek-OCR: `git clone https://huggingface.co/deepseek-ai/DeepSeek-OCR`
 3. En la carpeta DeepSeek-OCR: `python -m venv .venv`
    `.venv\Scripts\activate`
